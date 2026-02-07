@@ -56,20 +56,22 @@ The dataset was loaded using **Pandas**, followed by initial exploration:
 
 📸 **Screenshot**
 
-* > `Screenshots/1. Importing Libraries in Python Notebook.png`
-<img width="957" height="637" alt="1  Importing Libraries in Python Notebook" src="https://github.com/user-attachments/assets/3c8e634e-0ca6-454b-b5ad-aa1487839be2" />
+* > Screenshots/1. Importing Libraries in Python Notebook.png
+  <img width="957" height="637" alt="1  Importing Libraries in Python Notebook" src="https://github.com/user-attachments/assets/3c8e634e-0ca6-454b-b5ad-aa1487839be2" />
 
   <br>
-* > `Screenshots/2. Reading and loading Dataset .png`
+  
+* > Screenshots/2. Reading and loading Dataset .png
   <img width="943" height="825" alt="2  Reading and loading Dataset " src="https://github.com/user-attachments/assets/dc701d04-9951-4ef7-9627-e1e86e73c67b" />
   
   <br>
-* > `Screenshots/3. Checking Dataset Shape and Info.png`
-<img width="956" height="900" alt="3  Checking Dataset Shape and Info" src="https://github.com/user-attachments/assets/164ffec2-313b-444e-b6ce-e209c26fb97b" />
+  
+* > Screenshots/3. Checking Dataset Shape and Info.png
+  <img width="956" height="900" alt="3  Checking Dataset Shape and Info" src="https://github.com/user-attachments/assets/164ffec2-313b-444e-b6ce-e209c26fb97b" />
 
   <br>
   
-* > `Screenshots/4.Checking Null Values .png`
+* > Screenshots/4.Checking Null Values .png
   <img width="953" height="908" alt="4 Checking Null Values " src="https://github.com/user-attachments/assets/0e429451-fddd-46f1-975f-92e87044109f" />
 
   <br>
@@ -88,27 +90,27 @@ Several columns contained inconsistent formats and required cleaning:
 
 📸 **Screenshot**
 
-* > `Screenshots/5. Drop Rows with Null Values .png`
+* > Screenshots/5. Drop Rows with Null Values .png
 
-<img width="922" height="272" alt="5  Drop Rows with Null Values " src="https://github.com/user-attachments/assets/4b826cfb-3a3d-42bf-8182-94641fe5bd2b" />
-
-  <br>
-  
-* > `Screenshots/6. Cleaning the Size Column .png`
-
-<img width="947" height="520" alt="6  Cleaning the Size Column " src="https://github.com/user-attachments/assets/5bb47a38-649b-4e49-b102-1aabaec77dc2" />
+  <img width="922" height="272" alt="5  Drop Rows with Null Values " src="https://github.com/user-attachments/assets/4b826cfb-3a3d-42bf-8182-94641fe5bd2b" />
 
   <br>
   
-* > `Screenshots/7. Convert Reviews to Numeric .png`
+* > Screenshots/6. Cleaning the Size Column .png
 
-<img width="935" height="266" alt="7  Convert Reviews to Numeric " src="https://github.com/user-attachments/assets/ad037a6b-46c8-4fef-b40c-70edd9422348" />
+  <img width="947" height="520" alt="6  Cleaning the Size Column " src="https://github.com/user-attachments/assets/5bb47a38-649b-4e49-b102-1aabaec77dc2" />
+
+  <br>
+  
+* > Screenshots/7. Convert Reviews to Numeric .png
+
+  <img width="935" height="266" alt="7  Convert Reviews to Numeric " src="https://github.com/user-attachments/assets/ad037a6b-46c8-4fef-b40c-70edd9422348" />
 
   <br>
 
-* > `Screenshots/8. Cleaning Installs and Price Columns .png`
+* > Screenshots/8. Cleaning Installs and Price Columns .png
 
-<img width="923" height="423" alt="8  Cleaning Installs and Price Columns " src="https://github.com/user-attachments/assets/81321d2c-2d87-4944-9ea8-d2d8eebee737" />
+  <img width="923" height="423" alt="8  Cleaning Installs and Price Columns " src="https://github.com/user-attachments/assets/81321d2c-2d87-4944-9ea8-d2d8eebee737" />
 
   <br>
 ---
@@ -123,9 +125,9 @@ Logical validations were applied to ensure realistic and reliable data:
 
 📸 **Screenshot**
 
-* > `Screenshots/9. Sanity Check .png`
+* > Screenshots/9. Sanity Check .png
 
-<img width="958" height="837" alt="9  Sanity Check " src="https://github.com/user-attachments/assets/7724be2d-3a11-416d-93e5-70fb465d92e6" />
+  <img width="958" height="837" alt="9  Sanity Check " src="https://github.com/user-attachments/assets/7724be2d-3a11-416d-93e5-70fb465d92e6" />
 
   <br>
 ---
@@ -141,27 +143,27 @@ Univariate analysis helped understand individual variable distributions:
 
 📸 **Screenshot**
 
-* > `Screenshots/10. Boxplot-Price .png`
+* > Screenshots/10. Boxplot-Price .png
 
-<img width="958" height="913" alt="10  Boxplot-Price " src="https://github.com/user-attachments/assets/14e2b157-9f64-474a-8ff4-20e384874a7f" />
-
-  <br>
-  
-* > `Screenshots/11. Boxplot-Reviews .png`
-
-<img width="957" height="903" alt="11  Boxplot-Reviews " src="https://github.com/user-attachments/assets/72407869-cf1f-499c-b429-7d398969b35c" />
+  <img width="958" height="913" alt="10  Boxplot-Price " src="https://github.com/user-attachments/assets/14e2b157-9f64-474a-8ff4-20e384874a7f" />
 
   <br>
   
-* > `Screenshots/12. Histogram - Rating .png`
+* > Screenshots/11. Boxplot-Reviews .png
 
-<img width="957" height="910" alt="12  Histogram - Rating " src="https://github.com/user-attachments/assets/06de5f68-fbac-418a-bf0e-bbb6ad4eecf4" />
+  <img width="957" height="903" alt="11  Boxplot-Reviews " src="https://github.com/user-attachments/assets/72407869-cf1f-499c-b429-7d398969b35c" />
+
+  <br>
+  
+* > Screenshots/12. Histogram - Rating .png
+
+  <img width="957" height="910" alt="12  Histogram - Rating " src="https://github.com/user-attachments/assets/06de5f68-fbac-418a-bf0e-bbb6ad4eecf4" />
 
   <br>
 
-* > `Screenshots/13. Histogram - Size .png`
+* > Screenshots/13. Histogram - Size .png
 
-<img width="955" height="905" alt="13  Histogram - Size " src="https://github.com/user-attachments/assets/4de81a08-dd2b-4c41-afb5-8e630f48cde2" />
+  <img width="955" height="905" alt="13  Histogram - Size " src="https://github.com/user-attachments/assets/4de81a08-dd2b-4c41-afb5-8e630f48cde2" />
 
   <br>
 ---
@@ -176,9 +178,9 @@ Outliers were treated to improve model performance:
 
 📸 **Screenshot**
 
-* `Screenshots/14. Outliers  .png`
+* > Screenshots/14. Outliers  .png
 
-<img width="965" height="885" alt="14  Outliers  " src="https://github.com/user-attachments/assets/760a27f6-8104-48cb-8f1b-f2c3ac1a4ae2" />
+  <img width="965" height="885" alt="14  Outliers  " src="https://github.com/user-attachments/assets/760a27f6-8104-48cb-8f1b-f2c3ac1a4ae2" />
 
   <br>
 ---
@@ -197,27 +199,27 @@ Higher installs or reviews **do not always guarantee higher ratings**.
 
 📸 **Screenshot**
 
-* `Screenshots/15. Rating vs Price Analysis.png`
+* > Screenshots/15. Rating vs Price Analysis.png
 
-<img width="953" height="997" alt="15  Rating vs Price Analysis" src="https://github.com/user-attachments/assets/1db63657-f58d-4b85-86c5-6f8a4b22b823" />
-
-  <br>
-  
-* `Screenshots/16. Rating vs Review Analysis .png`
-
-<img width="957" height="1007" alt="16  Rating vs Review Analysis " src="https://github.com/user-attachments/assets/25130d3e-5242-49e5-987c-abeec90a4243" />
+  <img width="953" height="997" alt="15  Rating vs Price Analysis" src="https://github.com/user-attachments/assets/1db63657-f58d-4b85-86c5-6f8a4b22b823" />
 
   <br>
   
-* `Screenshots/17. Rating vs Content Rating .png`
+* > Screenshots/16. Rating vs Review Analysis .png
 
-<img width="958" height="908" alt="17  Rating vs Content Rating " src="https://github.com/user-attachments/assets/17cb9507-8dd1-4fbf-8d06-ba21369a2674" />
+  <img width="957" height="1007" alt="16  Rating vs Review Analysis " src="https://github.com/user-attachments/assets/25130d3e-5242-49e5-987c-abeec90a4243" />
 
   <br>
   
-* `Screenshots/18. Rating Vs Category Analysis.png`
+* > Screenshots/17. Rating vs Content Rating .png
 
-<img width="956" height="911" alt="18  Rating Vs Category Analysis" src="https://github.com/user-attachments/assets/1810b13c-8a63-437b-b998-0297b733b506" />
+  <img width="958" height="908" alt="17  Rating vs Content Rating " src="https://github.com/user-attachments/assets/17cb9507-8dd1-4fbf-8d06-ba21369a2674" />
+
+  <br>
+  
+* > Screenshots/18. Rating Vs Category Analysis.png
+
+  <img width="956" height="911" alt="18  Rating Vs Category Analysis" src="https://github.com/user-attachments/assets/1810b13c-8a63-437b-b998-0297b733b506" />
 
   <br>
 ---
@@ -232,9 +234,9 @@ Before model building:
 
 📸 **Screenshot**
 
-* `Screenshots/19. Data Preprocessing .png`
+* > Screenshots/19. Data Preprocessing .png
 
-<img width="957" height="465" alt="19  Data Preprocessing " src="https://github.com/user-attachments/assets/99db4614-9830-445d-8d5d-eeb1f03bbdb1" />
+  <img width="957" height="465" alt="19  Data Preprocessing " src="https://github.com/user-attachments/assets/99db4614-9830-445d-8d5d-eeb1f03bbdb1" />
 
   <br>
 ---
@@ -247,21 +249,21 @@ Before model building:
 
 📸 **Screenshot**
 
-* `Screenshots/20. Model Building .png`
+* > Screenshots/20. Model Building .png
 
-<img width="921" height="267" alt="20  Model Building " src="https://github.com/user-attachments/assets/0621c8fa-4d1d-462b-89a6-08f0b1d2a2f5" />
-
-  <br>
-  
-* `Screenshots/21. Linear Regression model throwing error due to null values .png`
-
-<img width="953" height="898" alt="21  Linear Regression model throwing error due to null values " src="https://github.com/user-attachments/assets/583ef236-f97c-42d0-af8f-6e1b7d17b160" />
+  <img width="921" height="267" alt="20  Model Building " src="https://github.com/user-attachments/assets/0621c8fa-4d1d-462b-89a6-08f0b1d2a2f5" />
 
   <br>
   
-* `Screenshots/22. Removing null and Creating Linear Regression Model .png`
+* > Screenshots/21. Linear Regression model throwing error due to null values .png
 
-<img width="952" height="898" alt="22  Removing null and Creating Linear Regression Model " src="https://github.com/user-attachments/assets/cf0f793d-c6ad-4781-bbdf-232ba8797342" />
+  <img width="953" height="898" alt="21  Linear Regression model throwing error due to null values " src="https://github.com/user-attachments/assets/583ef236-f97c-42d0-af8f-6e1b7d17b160" />
+
+  <br>
+  
+* > Screenshots/22. Removing null and Creating Linear Regression Model .png
+
+  <img width="952" height="898" alt="22  Removing null and Creating Linear Regression Model " src="https://github.com/user-attachments/assets/cf0f793d-c6ad-4781-bbdf-232ba8797342" />
 
   <br>
 ---
@@ -274,9 +276,9 @@ Before model building:
 
 📸 **Screenshot**
 
-* `Screenshots/23. R square .png`
+* > Screenshots/23. R square .png
 
-<img width="925" height="356" alt="23  R square " src="https://github.com/user-attachments/assets/7a449616-f544-4858-a5b4-09de416143b1" />
+  <img width="925" height="356" alt="23  R square " src="https://github.com/user-attachments/assets/7a449616-f544-4858-a5b4-09de416143b1" />
 
   <br>
 ---
