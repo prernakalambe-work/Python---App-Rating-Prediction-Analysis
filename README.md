@@ -299,3 +299,14 @@ Future improvements may include:
 * Feature expansion
 * Better outlier handling
 
+---
+
+## **Business Insights / Project Outcomes**
+
+* App ratings are **not strongly dependent on installs or reviews**; highly popular apps do not always receive better ratings.
+* **Most apps are free**, and price has **minimal impact on user ratings**.
+* App size shows **no significant influence** on ratings, indicating users value functionality over size.
+* Certain app categories consistently show **slightly higher average ratings** than others.
+* App ratings are **partially predictable**, but are also influenced by subjective user behavior.
+
+---------
